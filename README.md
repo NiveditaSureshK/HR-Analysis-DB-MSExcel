@@ -2,8 +2,9 @@
 
 ## Problem Statement
 
+
 ## Dataset Used
--
+- The dataset is in CSV format, and it is cleaned and processed for analysis with the help of Microsoft Excel's built-in feature Power Query.
 
 ## Analyses derived from the dataset
 - Criterion for promotion of employees with a Bachelor's degree and Doctorate degree.
@@ -37,12 +38,12 @@
    
 - 2-D column chart that transitions between total workers by business unit and salary compensation to those business units.
 
-![transition](https://user-images.githubusercontent.com/71536311/194989638-9bf34c3a-5169-4489-9782-97ea8be2adf5.gif)
-   
+<p align="center"><img src="https://user-images.githubusercontent.com/71536311/194989638-9bf34c3a-5169-4489-9782-97ea8be2adf5.gif" width="500"></p>
+
 - The number of employees by job profile is highlighted in 3 cards at the bottom, as is a tabular view of job classifications by educational qualifications.
 
-<p align="center"><img width="414" alt="image" src="https://user-images.githubusercontent.com/71536311/194917174-b994c401-ae3f-4e93-94dc-602618205510.png"></p>
-   
+<p align="center"><img src="https://user-images.githubusercontent.com/71536311/194998031-13608168-e504-400b-9e5c-39776b4f9ecc.gif" width="500"></p>
+
 ### Active filters needed to interact with the data and the dashboard 
 Department and gender
 
