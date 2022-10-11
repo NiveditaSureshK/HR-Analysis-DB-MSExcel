@@ -3,27 +3,43 @@
 ## Problem Statement
 
 ## Dataset Used
+-
 
 ## Analyses derived from the dataset
 - Criterion for promotion of employees with a Bachelor's degree and Doctorate degree.
 - Requirements for salary hikes for personnel in the Tech support and Sales and Marketing divisions.
 
-<p align="center"><img width="234" alt="image" src="https://user-images.githubusercontent.com/71536311/194792887-72820639-3f5c-496c-b8a6-395df1c60746.png">
-</p>
+<p align="center"><img width="697" alt="image" src="https://user-images.githubusercontent.com/71536311/194988597-94019c57-cb8a-40e9-b594-f7d61ea20dc2.png"></p>   
 
 - Gender breakdown of total number of employees working in the firm.
 
 <p align="center"><img width="367" alt="image" src="https://user-images.githubusercontent.com/71536311/194883326-c24e6f51-2fd6-4015-ac3c-7eff45742def.png"></p>   
  
- - A clustered bar chart of the five departments in the organization with the most employees.
+- A clustered bar chart of the five departments in the organization with the most employees.
  
 <p align="center"><img width="390" alt="image" src="https://user-images.githubusercontent.com/71536311/194887995-bf8a6b7e-68aa-4699-a070-03992a0e2ca1.png"></p>  
  
- - A gender-based examination of the total number of employees by their educational credentials.
+- A gender-based examination of the total number of employees by their educational credentials.
  
 <p align="center"><img width="250" alt="image" src="https://user-images.githubusercontent.com/71536311/194915717-f794bf61-bb7e-4689-a1b8-017724fbb48c.png"></p>
 
 - Doughnut chart illustrating the marital status of the entire workforce of the organization.
+
+<p align="center"><img width="414" alt="image" src="https://user-images.githubusercontent.com/71536311/194917174-b994c401-ae3f-4e93-94dc-602618205510.png"></p>
+
+- Salary distribution of full-time and part-time employees.
+
+<p align="center"><img width="862" alt="image" src="https://user-images.githubusercontent.com/71536311/194978731-9ce02f60-e296-40cf-bcb7-6954b2735f3e.png"></p>
+   
+- Active and inactive employees
+
+<p align="center"><img width="346" alt="image" src="https://user-images.githubusercontent.com/71536311/194983661-ba2a034c-e5b0-48b2-bc26-d23c6ec8961b.png"></p>
+   
+- 2-D column chart that transitions between total workers by business unit and salary compensation to those business units.
+
+![transition](https://user-images.githubusercontent.com/71536311/194989638-9bf34c3a-5169-4489-9782-97ea8be2adf5.gif)
+   
+- The number of employees by job profile is highlighted in 3 cards at the bottom, as is a tabular view of job classifications by educational qualifications.
 
 <p align="center"><img width="414" alt="image" src="https://user-images.githubusercontent.com/71536311/194917174-b994c401-ae3f-4e93-94dc-602618205510.png"></p>
    
