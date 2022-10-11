@@ -55,9 +55,11 @@ Department and gender
 ## Tools Used
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-- Utilized Power Query to extract and transform the data, then transferred the data to Power Pivot for further analysis.
-- Power Pivot is used to store our data for further exploration in the future, if the number of rows increases into the millions.
-- Implemented OFFSET and COUNTA functions to prepare reports that interpret transaction, order, COGS, revenue, and net profit on a monthly and quarterly basis, by sales channel, by sales regions and by item types sold over time.
+- Utilized **Power Query** to extract and transform raw unstructured data into structured data in tabular form.
+- Generated **Pivot tables** to compile key HR data and reports.
+- Developed a series of useful **Excel macros* for automating the display and concealment of job categorization cards with tabular information.
+- Automated manual filter removal using **macros and VBA**.
+- Excel formulae such as **IF, COUNTA**, and **IF AND functions** were used to perform transition chart analysis and employee promotional analysis, respectively.
 
 ## Overview
 
