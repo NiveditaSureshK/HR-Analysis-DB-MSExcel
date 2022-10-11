@@ -2,6 +2,9 @@
 
 ## Problem Statement
 
+The above HR dashboard aggregates and visualizes data from several departments within the organization to provide a comprehensive summary of critical HR KPIs, allowing for improved decision-making.
+
+HR dashboards allow teams to get a bird’s-view of their people operations while also delving deeper into how specific data points correlate. As a result, HR dashboards make it easier for HR professionals to recognize patterns and build proactive people strategies around them, as well as swiftly discover insights that will improve recruiting, optimize workplace management, and boost employee performance.
 
 ## Dataset Used
 - The dataset is in CSV format, and it is cleaned and processed for analysis with the help of Microsoft Excel's built-in feature Power Query.
