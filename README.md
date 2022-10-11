@@ -57,9 +57,9 @@ Department and gender
 
 - Utilized **Power Query** to extract and transform raw unstructured data into structured data in tabular form.
 - Generated **Pivot tables** to compile key HR data and reports.
-- Developed a series of useful **Excel macros* for automating the display and concealment of job categorization cards with tabular information.
+- Developed a series of useful **Excel macros** for automating the display and concealment of job categorization cards with tabular information.
 - Automated manual filter removal using **macros and VBA**.
-- Excel formulae such as **IF, COUNTA**, and **IF AND functions** were used to perform transition chart analysis and employee promotional analysis, respectively.
+- Excel formulae such as **IF, COUNTA**, and **IF AND** functions were used to perform transition chart analysis and employee promotional analysis, respectively.
 
 ## Overview
 
